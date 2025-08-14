@@ -1,4 +1,4 @@
-# Foresty - Forest Fire Classifier
+# Forest Fire Classifier
 
 Web application that uses a fine-tuned version of the Inception V3 CNN to classify images of forests as having "fire" or "no fire". Application consists of a React-based frontend, Flask backend, and Firebase integration for user authentication. 
 
